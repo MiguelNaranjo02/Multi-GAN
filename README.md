@@ -18,7 +18,6 @@ Desarrollar una arquitectura GAN capaz de aprender la distribución de imágenes
 - `datasets/`: Carpeta sugerida donde se deberían almacenar las imágenes reales de gatos usadas para entrenamiento.
 - `salidas/`: Carpeta donde se guardan las imágenes generadas por la GAN (no incluida por defecto en este repo).
 - `README.md`: Este archivo.
-- `requirements.txt`: (opcional) Archivo con las dependencias del proyecto.
 
 ## ⚙️ Tecnologías utilizadas
 
