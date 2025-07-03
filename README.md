@@ -38,9 +38,7 @@ Discriminador: Evalúa si una imagen es real o generada.
 Ambas redes son entrenadas de forma simultánea y en oposición, siguiendo la estrategia típica de entrenamiento de GANs.
 
 🏁 Instrucciones de uso
-1. Clona el repositorio:
-- git clone https://github.com/tu-usuario/generador-gatos-GAN.git
-- cd generador-gatos-GAN
+1. Descarga el repositorio
 2. Instala las dependencias:
 - pip install -r requirements.txt
 3. Asegúrate de tener imágenes de gatos en la carpeta datasets/.
